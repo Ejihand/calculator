@@ -1,4 +1,7 @@
 # calculator
 Practicing CICD
-C:\Users\enwaeze\Documents\ShareX\Screenshots\2023-06\iPPeHlERvA.png
-![chrome_v8ZunfDFiA](https://github.com/Ejihand/calculator/assets/24857026/5665f72b-8cf6-466b-9c40-f9d902722a2a)
+gdaudiu yud d dyd  ui  
+## Step 4
+![iPPeHlERvA](https://github.com/Ejihand/calculator/assets/24857026/db4b7de8-96da-4889-b96a-4563661a55c0)
+attached is the images showing the commit imgae.
+
